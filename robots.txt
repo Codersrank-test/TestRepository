@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: *
+
+
+
+Sitemap: http://bankingitaly.com/sitemap_index.xml
